@@ -4,6 +4,14 @@ Written in Python 3.5, using Jupyter.
 
 References:
 
+https://repl.it/examples
+
+https://www.continuum.io/documentation
+
+https://www.scipy.org/getting-started.html
+
+https://docs.python.org/3/tutorial/controlflow.html
+
 http://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 
 https://www.daniweb.com/programming/software-development/threads/183540/coin-flip-python-newbie-
