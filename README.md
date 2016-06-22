@@ -20,7 +20,7 @@ Control mean:  15.118
 p-value:  0.000259936016099  
 The p-value is less than  0.01 , therefore we can say with  99 % confidence that our mystery coin is unfair.  
 
-Written in Python 3.5, using Jupyter.
+
 
 ##### Reference Materials:
 
@@ -47,5 +47,7 @@ http://stackoverflow.com/questions/5012560/how-to-query-seed-used-by-random-rand
 http://iaingallagher.tumblr.com/post/50980987285/t-tests-in-python
 
 http://stackoverflow.com/questions/10897339/python-fetch-first-10-results-from-a-list
+
+Written in Python 3.5, using Jupyter.
 
 
