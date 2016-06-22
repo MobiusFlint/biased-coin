@@ -1,8 +1,28 @@
 # biased-coin
 
+This code generates a mystery coin with an unknown bias and essentially compares it with another known fair coin to decide if the bias exists or not.
+
+#### Example output when fair:
+
+Probability of mystery coin flipping heads:  0.5  
+Observed proportion of heads:  0.5056666666666667  
+Sample mean:  15.17  
+Control mean:  15.068  
+p-value:  0.236660952588  
+The p-value is greater than  0.01 , therefore we can say with  99 % confidence that our mystery coin is fair.  
+
+#### Example output when biased:
+
+Probability of mystery coin flipping heads:  0.4936555647123755  
+Observed proportion of heads:  0.49329999999999996  
+Sample mean:  14.799  
+Control mean:  15.118  
+p-value:  0.000259936016099  
+The p-value is less than  0.01 , therefore we can say with  99 % confidence that our mystery coin is unfair.  
+
 Written in Python 3.5, using Jupyter.
 
-Reference Materials:
+##### Reference Materials:
 
 https://repl.it/examples
 
