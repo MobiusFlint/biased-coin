@@ -4,7 +4,7 @@ This code generates a mystery coin with an unknown bias and essentially compares
 
 #### Example output when fair:
 
-Probability of mystery coin flipping heads:  0.5  
+Actual probability of mystery coin flipping heads:  0.5  
 Observed proportion of heads:  0.5056666666666667  
 Sample mean:  15.17  
 Control mean:  15.068  
@@ -13,7 +13,7 @@ The p-value is greater than  0.01 , therefore we can say with  99 % confidence t
 
 #### Example output when biased:
 
-Probability of mystery coin flipping heads:  0.4936555647123755  
+Actual probability of mystery coin flipping heads:  0.4936555647123755  
 Observed proportion of heads:  0.49329999999999996  
 Sample mean:  14.799  
 Control mean:  15.118  
