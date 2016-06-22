@@ -6,8 +6,7 @@ References:
 
 http://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 
-https://www.daniweb.com/programming/software-development/threads/183540/coin-flip-python-
-newbie-
+https://www.daniweb.com/programming/software-development/threads/183540/coin-flip-python-newbie-
 
 http://www.tutorialspoint.com/python/python_nested_loops.htm
 
